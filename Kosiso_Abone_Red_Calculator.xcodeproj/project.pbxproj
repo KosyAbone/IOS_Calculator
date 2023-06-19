@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0BA218B52A27B8410046EEA4 /* Kosiso_Calculator_Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BA218B42A27B8410046EEA4 /* Kosiso_Calculator_Model.swift */; };
 		0BF9B6892A1E63F9000F8C4C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BF9B6882A1E63F9000F8C4C /* AppDelegate.swift */; };
 		0BF9B68B2A1E63F9000F8C4C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BF9B68A2A1E63F9000F8C4C /* SceneDelegate.swift */; };
 		0BF9B68D2A1E63F9000F8C4C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BF9B68C2A1E63F9000F8C4C /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0BA218B42A27B8410046EEA4 /* Kosiso_Calculator_Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kosiso_Calculator_Model.swift; sourceTree = "<group>"; };
 		0BF9B6852A1E63F9000F8C4C /* Kosiso_Abone_Red_Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Kosiso_Abone_Red_Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BF9B6882A1E63F9000F8C4C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0BF9B68A2A1E63F9000F8C4C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				0BF9B6912A1E63FA000F8C4C /* Assets.xcassets */,
 				0BF9B6932A1E63FA000F8C4C /* LaunchScreen.storyboard */,
 				0BF9B6962A1E63FA000F8C4C /* Info.plist */,
+				0BA218B42A27B8410046EEA4 /* Kosiso_Calculator_Model.swift */,
 			);
 			path = Kosiso_Abone_Red_Calculator;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0BF9B68D2A1E63F9000F8C4C /* ViewController.swift in Sources */,
+				0BA218B52A27B8410046EEA4 /* Kosiso_Calculator_Model.swift in Sources */,
 				0BF9B6892A1E63F9000F8C4C /* AppDelegate.swift in Sources */,
 				0BF9B68B2A1E63F9000F8C4C /* SceneDelegate.swift in Sources */,
 			);
@@ -287,6 +291,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Kosiso_Abone_Red_Calculator/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -314,6 +319,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Kosiso_Abone_Red_Calculator/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
